@@ -1,7 +1,7 @@
 import { Link, } from "react-router-dom";
 import Tools from "../Tools/Tools";
-import Tool1 from "../../toolCategory/Tool1/Tool1";
 import { Helmet } from "react-helmet";
+import Tool1 from "../../tools/Tool1/Tool1";
 
 const Home = () => {
 
